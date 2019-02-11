@@ -1,3 +1,3 @@
 # hello-world
-Nothing new here 
+Nothing new 
 Deadpixel here, Upgrading to produce bright pictures
